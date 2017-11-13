@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "StinkedIn",
+  "version": "1.0",
+  "description": "Replaces LinkedIn jargon with more honest alternatives.",
+  "permissions": ["*://*.linkedin.com/*", "webRequest"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.linkedin.com/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  }
+}
