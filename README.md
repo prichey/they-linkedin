@@ -14,3 +14,5 @@ Needs `webRequest` to watch AJAX calls. All manipulation is done in the DOM. The
 In Chrome, choose Window > Extensions. Drag TheyLinkedIn.crx into the page that appears.
 
 ## 🕶 〰️ 💀
+
+![](screenshot.png)
