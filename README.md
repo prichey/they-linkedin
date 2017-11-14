@@ -4,8 +4,9 @@ Chrome extension that lets you see through the LinkedIn jargon. Inspired by John
 
 Basically just a fork of [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), but it runs after each AJAX GET request, since LinkedIn loads in nearly all of its content asynchronously.
 
-## Permissions
-Needs `webRequest` to watch AJAX calls. All manipulation is done in the DOM. The extension makes no requests of its own.
+## 🕶 〰️ 💀
+
+![](screenshot.png)
 
 ## Installation
 
@@ -13,6 +14,5 @@ Needs `webRequest` to watch AJAX calls. All manipulation is done in the DOM. The
 
 In Chrome, choose Window > Extensions. Drag TheyLinkedIn.crx into the page that appears.
 
-## 🕶 〰️ 💀
-
-![](screenshot.png)
+## Permissions
+Needs `webRequest` to watch AJAX calls. All manipulation is done in the DOM. The extension makes no requests of its own.
