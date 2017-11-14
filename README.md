@@ -10,6 +10,14 @@ Basically just a fork of [cloud-to-butt](https://github.com/panicsteve/cloud-to-
 
 In Chrome, choose Window > Extensions. Drag TheyLinkedIn.crx into the page that appears.
 
+## Replacements
+* `Share an article, photo, video or idea` -> `FEED THE MACHINE`
+* `likes this` -> `hopes you like that they like this`
+* `Connections` -> `"Connections"`
+* `Jobs recommended for you` -> `The grass is greener over here`
+* `People you may know` -> `Synergistic partners`
+* etc...
+
 ## Permissions
 Needs `webRequest` to watch AJAX calls. All manipulation is done in the DOM. The extension makes no requests of its own.
 
