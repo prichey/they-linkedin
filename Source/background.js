@@ -1,5 +1,5 @@
 let timer; // global for overriding timeout
-const delay = 500; // ms
+const delay = 250; // ms
 
 chrome.webRequest.onCompleted.addListener(
   request => {
