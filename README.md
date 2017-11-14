@@ -1,7 +1,4 @@
 # They LinkedIn
-=============
-
-## 🕶 〰️ 💀
 
 Chrome extension that lets you see through the LinkedIn jargon. Inspired by John Carpenter's [They Live](https://en.wikipedia.org/wiki/They_Live) and an episode of [Track Changes](https://trackchanges.postlight.com/paul-and-rich-try-to-talk-about-something-else-but-end-up-complaining-about-linkedin-again-c20526cfdb74).
 
@@ -15,3 +12,5 @@ Needs `webRequest` to watch AJAX calls. All data manipulation is done in the DOM
 [Direct download of crx file](https://github.com/prichey/they-linkedin/blob/master/TheyLinkedIn.crx?raw=true)
 
 In Chrome, choose Window > Extensions. Drag TheyLinkedIn.crx into the page that appears.
+
+## 🕶 〰️ 💀
