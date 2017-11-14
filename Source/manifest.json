@@ -1,9 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "StinkedIn",
+  "name": "They LinkedIn",
   "version": "1.0",
-  "description": "Replaces LinkedIn jargon with more honest alternatives.",
+  "description":
+    "Lets you see through the LinkedIn jargon. Inspired by John Carpenter's They Live.",
   "permissions": ["*://*.linkedin.com/*", "webRequest"],
+  "icons": { "16": "logo-16.png", "128": "logo-128.png" },
   "content_scripts": [
     {
       "matches": ["*://*.linkedin.com/*"],

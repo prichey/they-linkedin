@@ -1,10 +1,17 @@
-StinkedIn
+# They LinkedIn
 =============
 
-Chrome extension that replaces LinkedIn jargon with more honest alternatives.
+## 🕶 〰️ 💀
 
-This is basically just a fork of [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), but it runs after each AJAX GET request (throttled), since LinkedIn loads in nearly all of its content with AJAX.
+Chrome extension that lets you see through the LinkedIn jargon. Inspired by John Carpenter's [They Live](https://en.wikipedia.org/wiki/They_Live) and an episode of [Track Changes](https://trackchanges.postlight.com/paul-and-rich-try-to-talk-about-something-else-but-end-up-complaining-about-linkedin-again-c20526cfdb74).
 
-<!-- [Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Basically just a fork of [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), but it runs after each AJAX GET request, since LinkedIn loads in nearly all of its content asynchronously.
 
-In Chrome, choose Window > Extensions.  Drag StinkedIn.crx into the page that appears. -->
+## Permissions
+Needs `webRequest` to watch AJAX calls. All data manipulation is done in the DOM. The extension makes no requests of its own.
+
+## Installation
+
+[Direct download of crx file](https://github.com/prichey/they-linkedin/blob/master/TheyLinkedIn.crx?raw=true)
+
+In Chrome, choose Window > Extensions. Drag TheyLinkedIn.crx into the page that appears.
