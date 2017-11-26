@@ -6,9 +6,9 @@ Basically just a fork of [cloud-to-butt](https://github.com/panicsteve/cloud-to-
 
 ## Installation
 
-[Direct download of crx file](https://github.com/prichey/they-linkedin/blob/master/TheyLinkedIn.crx?raw=true)
+Via [Chrome Store](https://chrome.google.com/webstore/detail/they-linkedin/cmjockpmecfhkaeadcgneakffkioombe) or [Direct Download](https://github.com/prichey/they-linkedin/blob/master/TheyLinkedIn.crx?raw=true).
 
-In Chrome, choose Window > Extensions. Drag TheyLinkedIn.crx into the page that appears.
+(In Chrome, choose Window > Extensions. Drag TheyLinkedIn.crx into the page that appears.)
 
 ## Replacements
 * `Share an article, photo, video or idea` -> `FEED THE MACHINE`
