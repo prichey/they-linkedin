@@ -5,6 +5,7 @@
 //     alt: ['bar', ...]
 //   }, ...
 // ];
+// add "A LinkedIn connection means you’ll never lose touch" and "Connect with your contacts and never lose touch"
 const replacements = [
   {
     regex: /\bShare an article, photo, video or idea\b/g,
